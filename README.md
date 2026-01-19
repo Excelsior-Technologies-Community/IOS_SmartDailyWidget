@@ -18,7 +18,7 @@ A simple, elegant Home Screen widget built with SwiftUI and WidgetKit that displ
 
 ## 🖼️ Screenshots
  
-<img width="301" height="303" alt="Screenshot 2026-01-19 at 4 43 10 PM" src="https://github.com/user-attachments/assets/cc39fe42-beb3-40f0-aecf-f6d61b7f6a4f" />
+ <img width="269" height="295" alt="Screenshot 2026-01-19 at 7 03 31 PM" src="https://github.com/user-attachments/assets/2e15e3f4-43ad-495c-a155-ff19dc0da510" />
 
 ## 🛠 Technologies Used
 
