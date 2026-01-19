@@ -174,32 +174,4 @@ StaticConfiguration(
 .configurationDisplayName("Smart Daily Widget")
 .description("Stay updated with time, date, and smart greetings.")
 ```
-
-## 🎨 Customization
-
-You can easily customize the widget by modifying:
-
-- **Update frequency** - Change the timeline interval in `SmartProvider`
-- **Greeting messages** - Edit the switch statement in the greeting logic
-- **UI styling** - Modify colors, fonts, and spacing in `SmartWidgetView`
-- **Widget sizes** - Add medium or large widget variants
-
-## 📖 Learning Resources
-
-This project demonstrates:
-
-- WidgetKit fundamentals
-- Timeline-based updates
-- iOS version compatibility handling
-- SwiftUI widget layouts
-- Best practices for battery-efficient widgets
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+ 
