@@ -24,8 +24,7 @@ A simple, elegant Home Screen widget built with SwiftUI and WidgetKit that displ
 
 - **SwiftUI** - Modern declarative UI framework
 - **WidgetKit** - Apple's widget framework
-- **TimelineProvider** - Efficient widget updates
-- **iOS 16+** compatible with conditional iOS 17+ APIs
+- **TimelineProvider** - Efficient widget updates 
 
 ## 📂 Project Structure
 
