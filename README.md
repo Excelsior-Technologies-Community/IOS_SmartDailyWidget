@@ -17,8 +17,10 @@ A simple, elegant Home Screen widget built with SwiftUI and WidgetKit that displ
 - 🆓 **No paid Apple Developer account required**
 
 ## 🖼️ Screenshots
- 
+ ![IMG_2226](https://github.com/user-attachments/assets/17192c9d-a9e5-4aa5-946a-0d2da60fe211)
+![IMG_2225](https://github.com/user-attachments/assets/4de19aa9-2ba2-45e5-95a0-c01e78fa4e51)
  <img width="269" height="295" alt="Screenshot 2026-01-19 at 7 03 31 PM" src="https://github.com/user-attachments/assets/2e15e3f4-43ad-495c-a155-ff19dc0da510" />
+![IMG_2227](https://github.com/user-attachments/assets/97e91f8f-5d57-4c13-aee1-67293b16e2f6)
 
 ## 🛠 Technologies Used
 
